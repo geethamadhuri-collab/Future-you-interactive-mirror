@@ -1,15 +1,7 @@
 #  Future You – Interactive Mirror
 
-##  Overview
-
-**Future You – Interactive Mirror** is an AI-based project that simulates a conversation with your “future self.”
-It takes user input and generates thoughtful, reflective, or predictive responses — creating an engaging and introspective experience.
-
----
 
 ##  Features
-
-*  AI-generated responses based on user input
 *  Interactive conversation flow
 *  Focus on self-reflection and future thinking
 *  Lightweight and easy to run
