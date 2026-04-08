@@ -26,8 +26,8 @@ It takes user input and generates thoughtful, reflective, or predictive response
 
 ##  Project Structure
 
-* **future_you.py** → ✅ Main application (final version)
-* Other `.py` files → 🧪 Prototype / experimental versions used during development
+* **future_you.py** →  Main application (final version)
+* Other `.py` files →  Prototype / experimental versions used during development
 
 > Note: Prototype files were created to test ideas before integrating them into the main application.
 
